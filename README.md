@@ -1,6 +1,6 @@
 # To Do List App
 
-Using [MongoDB Atlas](https://www.mongodb.com/cloud/atlas) and [EJS](https://ejs.co/) hosted a [To Do List App](https://obscure-retreat-17197.herokuapp.com/) page on [Heroku](http://www.heroku.com) platform.
+Using [MongoDB Atlas](https://www.mongodb.com/cloud/atlas) and [EJS](https://ejs.co/) hosted a [To Do List App](https://obscure-retreat-17197.herokuapp.com/) on [Heroku](http://www.heroku.com) platform.
 
 
 ### Technologies Used:
