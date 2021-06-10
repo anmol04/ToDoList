@@ -44,7 +44,7 @@ const item2 = new Item({
 });
 
 const item3 = new Item({
-  name: "<-- Hit this delete an item."
+  name: "<-- Hit this to delete an item."
 });
 
 //Default Items Array
